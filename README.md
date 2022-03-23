@@ -50,6 +50,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arash-afazeli/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arash%20Afazeli%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/arash-afazeli-8a1bab123/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arash%20Afazeli%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:arashafazeli@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arashafazeli@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
