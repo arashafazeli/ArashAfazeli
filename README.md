@@ -11,7 +11,7 @@
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/arash-afazeli-8a1bab123/)   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am half finish
+- ⚡ Fun fact: ... 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
