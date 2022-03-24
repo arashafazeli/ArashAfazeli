@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on ...Python, 
 - 🤔 I’m looking for help with ...Finding LIA(Learning at work)
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ... ![Linkedin](https://www.linkedin.com/in/arash-afazeli-8a1bab123/)   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/arash-afazeli-8a1bab123/)   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half finish
 
