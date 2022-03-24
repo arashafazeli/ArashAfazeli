@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 I’m currently working on ...DevOps
-- 🌱 I’m currently learning ...Python, Bash, Sqlite, Postgresql, Docker,Jenkins, Linux, FastAPI ...
+- 🌱 I’m currently learning ...Python, Bash, Sqlite, Postgresql, Docker, Jenkins, Linux, FastAPI ...
 - 👯 I’m looking to collaborate on ...Python, 
 - 🤔 I’m looking for help with ...Finding LIA(Learning at work)
 - 💬 Ask me about ...Anything
